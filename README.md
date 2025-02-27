@@ -7,3 +7,4 @@ once the file is ran put in the Discord App (NO WEBHOOKS)
 
 then choose what you would like to do
 
+if you have anyones bot token that has been ratting or spreading malware please send it to 
