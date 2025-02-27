@@ -1,5 +1,5 @@
 @echo off
-cd /d "%~dp0"  # Change to the directory of the batch file
+cd /d "%~dp0" 
 
 python --version
 if %errorlevel% neq 0 (
